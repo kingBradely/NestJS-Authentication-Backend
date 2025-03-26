@@ -200,3 +200,10 @@ Once the application is running, visit `http://localhost:3000/api/docs` to acces
 ## 🤝 Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
+
+## Contact
+
+Oussema Hedhlie - ossamahedli@gmail.com
+
+Project Link: https://github.com/kingBradely/NestJS-Authentication-Backend
+
