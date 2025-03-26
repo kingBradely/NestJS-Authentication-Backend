@@ -81,7 +81,7 @@ Before starting, make sure you have:
 ### 1. Clone the Repository
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/kingBradely/NestJS-Authentication-Backend.git
 cd authentication-backend
 ```
 
